@@ -1,29 +1,34 @@
 {
   "type": "Topology",
-  "arcs": [],
+  "arcs": [
+    
+  ],
   "objects": {
     "plants": {
       "type": "GeometryCollection",
       "geometries": [
         {
-         "type": "Point",
-        "coordinates": [
-          17.60009765625,
-          52.8691297276852
+          "type": "Point",
+          "coordinates": [
+            17.60009765625,
+            52.8691297276852
           ]
         },
-{
-"type": "Point",
-        "coordinates": [
-          12.85400390625,
-          50.45750402042058
-        ]},
-{
-
-"type": "Point",
-        "coordinates": [
-         18.25927734375,
-          48.821332549646634        ]}
-]
-}
+        {
+          "type": "Point",
+          "coordinates": [
+            12.85400390625,
+            50.45750402042058
+          ]
+        },
+        {
+          "type": "Point",
+          "coordinates": [
+            18.25927734375,
+            48.821332549646634
+          ]
+        }
+      ]
+    }
+  }
 }
